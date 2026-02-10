@@ -11,6 +11,11 @@
 - [Lace](https://chromewebstore.google.com/detail/hgeekaiplokcnmakghbdfbgnlfheichg?utm_source=item-share-cb) (Browser wallet extension)
 - [Faucet](https://faucet.preview.midnight.network/) (Preview Network Faucet)
 
+
+## 📘 Student Guide
+
+- See [`STUDENT_MIDNIGHT_DAPP_GUIDE.md`](./STUDENT_MIDNIGHT_DAPP_GUIDE.md) for a practical, repo-tailored step-by-step workflow for Compact contracts and frontend integration.
+
 ## Known Issues
 
 - There’s a not-yet-fixed bug in the arm64 Docker image of the proof server.
